@@ -1,7 +1,6 @@
 package main.java.models;
 
 import main.java.data.ItemTrip;
-import main.java.trees.TravelerTree;
 
 public class TripNode {
     

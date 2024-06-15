@@ -1,17 +1,17 @@
 package main.java.data;
 
 public class ItemTrip {
-    private int id;
+    private int tripId;
     private int travelerId;
     private String date;
     private String destination;
 
-    public int getId() {
-        return this.id;
+    public int getTripID() {
+        return this.tripId;
     }
 
-    public void setId(int id) {
-        this.id = id;
+    public void setTripID(int id) {
+        this.tripId = id;
     }
 
     public int getTravelerId() {
